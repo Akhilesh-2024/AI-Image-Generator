@@ -3,7 +3,7 @@
 A responsive web app that uses the Hugging Face API to generate AI images from text prompts. Built with vanilla JavaScript (no frameworks).
 
 ## Instructions
--  Use You Own API KEY This Will Not Work Anymore
+-  Use You Own API KEY Or This Will Not Work Anymore
 ## Features
 
 - Fully responsive design
